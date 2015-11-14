@@ -1,0 +1,23 @@
+{
+  "name": "scrambled-number-generator",
+  "version": "1.0.0",
+  "description": "scrambled number generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thingsastray/Scrambled-Number-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thingsastray/Scrambled-Number-Generator/issues"
+  },
+  "homepage": "https://github.com/thingsastray/Scrambled-Number-Generator#readme",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.3"
+  }
+}
